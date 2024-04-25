@@ -1,0 +1,6 @@
+Package: toyPackage
+Version: 0.0.0.9000
+Suggests: ngme2
+License: MIT + file LICENSE
+MD5sum: b0fc73104bd3c691e89f92d5f24783d9
+NeedsCompilation: no
